@@ -2,7 +2,7 @@ Docker có 2 container cơ bản (có thể chuyển qua chuyển lại dễ dà
 - Windown Container 
 - Linux Container 
 
-##Một số cầu lệnh docker:
+# Một số cầu lệnh docker:
 - docker ps
 - docker container ls 
 - docker 
